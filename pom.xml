@@ -5,6 +5,7 @@
 	<artifactId>maven-project-msiriki</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule</packaging>
+	
 	<name>Mule maven-project Application</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
